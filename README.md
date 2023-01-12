@@ -1,6 +1,6 @@
-### Hi there 👋
+### I'm Joe 👋
+I'm the creator and developer of [Kavita](https://github.com/Kareadita/Kavita), an open source media server for comics, mangas, and books. 
 
-![](https://hit.yhype.me/github/profile?user_id=735851)
 
 <!--
 **majora2007/majora2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Tracking visitors -->
+![](https://hit.yhype.me/github/profile?user_id=735851)
